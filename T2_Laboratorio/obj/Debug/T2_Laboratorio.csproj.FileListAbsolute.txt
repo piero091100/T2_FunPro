@@ -1,0 +1,11 @@
+C:\Users\Piero Vargas\source\repos\T2_Laboratorio\T2_Laboratorio\bin\Debug\T2_Laboratorio.exe.config
+C:\Users\Piero Vargas\source\repos\T2_Laboratorio\T2_Laboratorio\bin\Debug\T2_Laboratorio.exe
+C:\Users\Piero Vargas\source\repos\T2_Laboratorio\T2_Laboratorio\bin\Debug\T2_Laboratorio.pdb
+C:\Users\Piero Vargas\source\repos\T2_Laboratorio\T2_Laboratorio\obj\Debug\T2_Laboratorio.csproj.AssemblyReference.cache
+C:\Users\Piero Vargas\source\repos\T2_Laboratorio\T2_Laboratorio\obj\Debug\T2_Laboratorio.csproj.SuggestedBindingRedirects.cache
+C:\Users\Piero Vargas\source\repos\T2_Laboratorio\T2_Laboratorio\obj\Debug\T2_Laboratorio.Form1.resources
+C:\Users\Piero Vargas\source\repos\T2_Laboratorio\T2_Laboratorio\obj\Debug\T2_Laboratorio.Properties.Resources.resources
+C:\Users\Piero Vargas\source\repos\T2_Laboratorio\T2_Laboratorio\obj\Debug\T2_Laboratorio.csproj.GenerateResource.cache
+C:\Users\Piero Vargas\source\repos\T2_Laboratorio\T2_Laboratorio\obj\Debug\T2_Laboratorio.csproj.CoreCompileInputs.cache
+C:\Users\Piero Vargas\source\repos\T2_Laboratorio\T2_Laboratorio\obj\Debug\T2_Laboratorio.exe
+C:\Users\Piero Vargas\source\repos\T2_Laboratorio\T2_Laboratorio\obj\Debug\T2_Laboratorio.pdb
